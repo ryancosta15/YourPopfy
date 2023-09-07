@@ -24,9 +24,9 @@
   <tr>
     <td align="center">
       <a href="https://github.com/ryancosta15">
-        <img src="https://avatars.githubusercontent.com/u/60184277?v=4" width="100px;"/><br>
+        <img src="https://avatars.githubusercontent.com/u/60184277?v=4](https://avatars.githubusercontent.com/u/89921782?v=4)" width="100px;"/><br>
         <sub>
-          <b>Rafael Cunha</b>
+          <b>Ryan Costa</b>
         </sub>
       </a>
     </td>
