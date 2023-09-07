@@ -13,7 +13,7 @@
 > Shows random characters from the Marvel universe. Created for the iOS course of the Novos Negócios em TIC project
 
 ## 🎥 DEMO
-[![Link to demo video]([http://www.youtube.com/watch?v=DkoN7SA1MuE](https://github.com/ryancosta15/YourPopfy/assets/89921782/f269eda2-e411-46de-a3d3-ed50a84ed06c) "Go to video")
+[![Link to demo video](https://github.com/ryancosta15/YourPopfy/assets/89921782/723bfaa2-4fea-422e-9216-919a64a6a0d6)]([http://www.youtube.com/watch?v=DkoN7SA1MuE](https://github.com/ryancosta15/YourPopfy/assets/89921782/f269eda2-e411-46de-a3d3-ed50a84ed06c) "Go to video")
 
 ## 👩🏾‍💻 Technologies
 - [x] UIKit
