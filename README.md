@@ -1,15 +1,19 @@
 # YourPopfy
 
-<img width="200" src="https://github.com/rafaelcuns/HeroWho/assets/60184277/a18be043-6096-435c-bb1a-c2cf9fbcedba">
+<img width="200" src="https://github.com/ryancosta15/YourPopfy/assets/89921782/723bfaa2-4fea-422e-9216-919a64a6a0d6">
 
 <hr>
+
+
+
+
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 
 > Shows random characters from the Marvel universe. Created for the iOS course of the Novos Negócios em TIC project
 
 ## 🎥 DEMO
-[![Link to demo video](http://img.youtube.com/vi/DkoN7SA1MuE/0.jpg)](http://www.youtube.com/watch?v=DkoN7SA1MuE "Go to video")
+[![Link to demo video]([http://www.youtube.com/watch?v=DkoN7SA1MuE](https://github.com/ryancosta15/YourPopfy/assets/89921782/f269eda2-e411-46de-a3d3-ed50a84ed06c) "Go to video")
 
 ## 👩🏾‍💻 Technologies
 - [x] UIKit
